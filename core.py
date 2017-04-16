@@ -1,5 +1,4 @@
-import pygame, time, random, os, tkinter
-from tkinter import *
+import pygame, time, random
 from pygame import gfxdraw
 from pygame.locals import *
 
@@ -21,7 +20,7 @@ randenem = random.randint(0,3)
 
 info_text = [
 "This is a little project made with pygame, trying to be a Roguelike.",
-"Coded entirely by Dimitrious Andreas Roy Anastassiades."
+"Coded entirely by mynameajeff."
 ]
 
 #~~~~~~~~~~~~~~ Map Load ~~~~~~~~~~~~~~
